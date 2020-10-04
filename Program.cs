@@ -31,7 +31,7 @@ namespace WebWordCounter
                 Console.WriteLine("Escribe la palabra:");
                 w = Console.ReadLine();
                 
-                string[] words = task1.XXXXXXXXXX;                
+                string[] words = task1.Result;                
                 
                 XXXXXXXXXX Task.Run(() => {
                     n = GetCountForWord(words, w);
