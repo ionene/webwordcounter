@@ -10,7 +10,7 @@ namespace WebWordCounter
 {
     public class Program
     {
-        public static XXXXXXXXXX Task Main()
+        public static async Task Main() //@ionene
         {
             string url = null;
             string w = null;
