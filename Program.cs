@@ -61,3 +61,26 @@ namespace WebWordCounter
         }
     }
 }
+ /* 
+    Un programa el cual dada una url pedida al usuario mediante el método Console.WriteLine("Escribe la url o exit:") y 
+    guardada en el atributo url mediante Console.ReadLine(), busca cuantas veces sale una palabra con los métodos mencionados anteriormente y 
+    lo guarda en un atributo llamado n que es un contador el cual irá incrementando conforme encuentra la misma palabra en la página web.
+*/
+
+ /* 
+    Hay un metodo await (Línea 36) para que no se inicie el metodo antes de que se haya terminado la ejecuión de todo lo anterior,
+    El operador await indica al compilador que el método asincrónico no puede continuar pasado ese punto,
+    hasta que se complete el proceso asincrónico aguardado.
+*/
+
+ /* 
+    Instrucciones del uso del programa:
+
+        1- Ejecutar el programa en cuestión (en mi caso con dotnet run)
+        2- Introducir una url o salir
+            2.1 -> En caso de poner "exit"finaliza la ejecución del programa
+        3- Escribir la palabra que quieres saber cuantas veces aparece
+        4- Fin de ejecución del programa
+    
+    Al terminar el programa muestra cuantas veces aparece la palabra en esa url.
+*/
