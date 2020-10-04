@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DAM\\2.DAM\\AITOR\\projects\\1.EVA\\csharp\\webwordcounter\\webwordcounter.csproj": {}
+    "C:\\Users\\34677\\webwordcounter\\webwordcounter.csproj": {}
   },
   "projects": {
-    "G:\\DAM\\2.DAM\\AITOR\\projects\\1.EVA\\csharp\\webwordcounter\\webwordcounter.csproj": {
+    "C:\\Users\\34677\\webwordcounter\\webwordcounter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DAM\\2.DAM\\AITOR\\projects\\1.EVA\\csharp\\webwordcounter\\webwordcounter.csproj",
+        "projectUniqueName": "C:\\Users\\34677\\webwordcounter\\webwordcounter.csproj",
         "projectName": "webwordcounter",
-        "projectPath": "G:\\DAM\\2.DAM\\AITOR\\projects\\1.EVA\\csharp\\webwordcounter\\webwordcounter.csproj",
-        "packagesPath": "C:\\Users\\Ione\\.nuget\\packages\\",
-        "outputPath": "G:\\DAM\\2.DAM\\AITOR\\projects\\1.EVA\\csharp\\webwordcounter\\obj\\",
+        "projectPath": "C:\\Users\\34677\\webwordcounter\\webwordcounter.csproj",
+        "packagesPath": "C:\\Users\\34677\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\34677\\webwordcounter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ione\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\34677\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
